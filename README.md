@@ -1,8 +1,10 @@
 # bayesregression
 
 ## Scope
-This repository contains the Matlab - Code used to produce the results in 
-_Dynamical System Identification, Model Selection and Model Uncertainty
+This repository contains the Matlab code 
+Bayesian Dynamical System Identification (BDSI), version 9d
+used to produce the results in 
+Dynamical System Identification, Model Selection and Model Uncertainty
 Quantification by Bayesian Inference   
 by
 Robert K. Niven, Laurent Cordier, Ali Mohammad-Djafari, Markus Abel,
