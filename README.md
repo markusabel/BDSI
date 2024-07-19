@@ -10,8 +10,6 @@ by
 Robert K. Niven, Laurent Cordier, Ali Mohammad-Djafari, Markus Abel,
 and Markus Quade_
 
-submitted to Chaos magazine
-
 ## Structure
 There are two folders, one contains the integration routines for the dynamical systems used in the publication, the other, _utils_, contains the procedures used to produce the graphics of the publication.
 
