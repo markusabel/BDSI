@@ -1,4 +1,4 @@
-# bayesregression
+# Bayesian Dynamical System Identification
 
 ## Scope
 This repository contains the Matlab code 
