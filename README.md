@@ -20,4 +20,4 @@ The version used to reproduce the publication results is 9.3
 
 ## License
 
-The rights for usage of the code remain with Robert K. Niven.
+For usage of the code beyond the licens, please contact [Robert K. Niven](mailto:r.niven@unsw.edu.au).
