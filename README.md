@@ -11,6 +11,12 @@ by
 Robert K. Niven, Laurent Cordier, Ali Mohammad-Djafari, Markus Abel,
 and Markus Quade
 
+Klick [here](https://arxiv.org/abs/2401.16943) for the arXiv submission
+
+Some Results for the curious
+![image](https://github.com/user-attachments/assets/d0564714-abfd-4976-9d2e-963a03d0974c)
+
+
 ## Structure and Versioning
 There are three folders, one contains the integration routines for the dynamical systems used in the publication, the other, _utils_, contains the procedures used to produce the graphics of the publication, the third folder noise_models.
 
